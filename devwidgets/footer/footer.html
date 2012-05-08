@@ -16,6 +16,7 @@
             --></span>
         </p>
         <div id="footer_contactinfo" style="display:none;"></div>
+
         <div id="footer_contactinfo_template"><!--
           <p>
             {if href}<a id="footer_www" href="${href}" alt="${alt}" target="_blank">${alt}</a>{/if}
@@ -24,7 +25,17 @@
           </p>
         --></div>
         <p id="footer_debug_info" style="display: none"><!-- --></p>
+
     </div>
+    <!-- SOCIAL CONTAINER -->
+    <div class="fl-fix fl-centered fixed-container">
+        <div id="footer_social" class="fl-force-left">
+           <a href="http://facebook.com"><img src="/devwidgets/footer/images/facebook-logo.png"></a>
+           <a href="http://twitter.com"><img src="/devwidgets/footer/images/twitter-logo.png"></a>
+           <a href="http://linkedin.com"><img src="/devwidgets/footer/images/linkedin-logo.png"></a>
+           <a href="http://plus.google.com"><img src="/devwidgets/footer/images/google-plus-logo.png"></a>
+        </div>
+    <div>
      <div class="fl-fix fl-centered fixed-container bottom">
         <div id="footer_links_template"><!--
             <p>
@@ -33,7 +44,9 @@
                 {/for}
             </p>
         --></div>
+
         <div id="footer_links" class="fl-force-left"></div>
+
         <div class="fl-force-right">
             <p id="footer_langdoc_lang" class="footer_langloc fl-force-left" style="display:none;"><span>__MSG__LANGUAGE__:</span> <button id="footer_language" class="s3d-link-button" title="__MSG__CHANGE_LANGUAGE__"></button> </p>
             <p id="footer_langdoc_loc" class="footer_langloc fl-force-left" style="display:none;"><span>__MSG__LOCATION__:</span> <button id="footer_location" class="s3d-link-button" title="__MSG__CHANGE_LOCATION__"></button></p>
