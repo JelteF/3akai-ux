@@ -18,7 +18,7 @@
 /* Widget Container CSS */
 .branding_widget {
     background:     url("/devwidgets/branding/images/uva-nl.jpg") no-repeat center center #FFFFFF;
-    height:         42px;
+    height:         50px;
     position:       relative;
     z-index:        1000;
 }
