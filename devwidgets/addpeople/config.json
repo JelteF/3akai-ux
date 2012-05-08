@@ -8,6 +8,9 @@
         },
         "es_ES": { 
             "bundle": "/devwidgets/addpeople/bundles/es_ES.properties"
+        },
+        "nl_NL": { 
+            "bundle": "/devwidgets/addpeople/bundles/nl_NL.properties"
         }
     },
     "type":"core",

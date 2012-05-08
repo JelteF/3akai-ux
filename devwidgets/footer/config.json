@@ -11,6 +11,9 @@
         "es_ES": { 
             "bundle": "/devwidgets/footer/bundles/es_ES.properties"
         },
+        "nl_NL": {
+            "bundle": "/devwidgets/footer/bundles/nl_NL.properties"
+        },
         "zh_CN": {
             "bundle": "/devwidgets/footer/bundles/zh_CN.properties"
         }

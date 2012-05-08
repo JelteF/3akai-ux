@@ -9,6 +9,9 @@
         },
         "es_ES": { 
             "bundle": "/devwidgets/assignlocation/bundles/es_ES.properties"
+        },
+        "nl_NL": { 
+            "bundle": "/devwidgets/assignlocation/bundles/nl_NL.properties"
         }
     },
     "type":"core",
