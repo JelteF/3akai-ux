@@ -1064,84 +1064,122 @@ define(function(){
          *  }
          */
         Directory: {
-            medicineanddentistry: {
-                title: "__MSG__MEDICINE_AND_DENTISTRY__",
+            elearning: {
+                title: "e-Learning",
                 children: {
-                    preclinicalmedicine: {
-                        title: "__MSG__PRECLINICAL_MEDICINE__"
+                    central: {
+                        title: "Central Services"
                     },
-                    preclinicaldentistry: {
-                        title: "__MSG__PRECLINICAL_DENTISTRY__"
+                    faculty: {
+                        title: "Faculty"
                     },
-                    clinicalmedicine: {
-                        title: "__MSG__CLININCAL_MEDICINE__"
+                    national: {
+                        title: "National"
                     },
-                    clinicaldentistry: {
-                        title: "__MSG__CLININCAL_DENTISTRY__"
-                    },
-                    othersinmedicineanddentistry: {
-                        title: "__MSG__MEDICINE_AND_DENTISTRY_OTHERS__"
+                    international: {
+                        title: "International"
                     }
                 }
             },
-            biologicalsciences: {
-                title: "__MSG__BIOLOGICAL_SCIENCES__",
+            eresearch: {
+                title: "e-Research",
                 children: {
-                    biology: {
-                        title: "__MSG__BIOLOGY__"
+                    central: {
+                        title: "Central Services"
                     },
-                    botany: {
-                        title: "__MSG__BOTANY__"
+                    faculty: {
+                        title: "Faculty"
                     },
-                    zoology: {
-                        title: "__MSG__ZOOLOGY__"
+                    national: {
+                        title: "National"
                     },
-                    genetics: {
-                        title: "__MSG__GENETICS__"
-                    },
-                    microbiology: {
-                        title: "__MSG__MICROBIOLOGY__"
-                    },
-                    sportsscience: {
-                        title: "__MSG__SPORTS_SCIENCE__"
-                    },
-                    molecularbiologybiophysicsandbiochemistry: {
-                        title: "__MSG__MOLECULAR_BIOLOGY__"
-                    },
-                    psychology: {
-                        title: "__MSG__PSYCHOLOGY__"
-                    },
-                    othersinbiologicalsciences: {
-                        title: "__MSG__BIOLOGICAL_SCIENCES_OTHER__"
+                    international: {
+                        title: "International"
                     }
                 }
             },
-            veterinarysciencesagriculture: {
-                title: "__MSG__VETERINARY_SCIENCES__",
+            trends: {
+                title: "Trends",
                 children: {
-                    preclinicalveterinarymedicine: {
-                        title: "__MSG__PRE_CLINICAL_VETERINARY__"
+                    central: {
+                        title: "Central Services"
                     },
-                    clinicalveterinarymedicineanddentistry: {
-                        title: "__MSG__CLINICAL_VETERINARY__"
+                    faculty: {
+                        title: "Faculty"
                     },
-                    animalscience: {
-                        title: "__MSG__ANIMAL_SCIENCE__"
+                    library: {
+                        title: "Library"
                     },
-                    agriculture: {
-                        title: "__MSG__AGRICULTURE__"
+                    national: {
+                        title: "National"
                     },
-                    forestry: {
-                        title: "__MSG__FORESTRY__"
+                    international: {
+                        title: "International"
+                    }
+                }
+            },
+            communities: {
+                title: "Communities",
+                children: {
+                    opensourcedev: {
+                        title: "Open Source Development"
                     },
-                    foodandbeveragestudies: {
-                        title: "__MSG__FOOD_BEVERAGE__"
+                    stdbodies: {
+                        title: "Standard bodies"
                     },
-                    agriculturalsciences: {
-                        title: "__MSG__AGRICULTURAL_SCIENCE__"
+                    interestgroups: {
+                        title: "Special Interest Groups"
                     },
-                    othersinveterinarysciencesandagriculture: {
-                        title: "__MSG__VETERINARY_SCIENCES_OTHER__"
+                    adhoc: {
+                        title: "ad-hoc"
+                    }                        
+                }
+            },
+            inovation: {
+                title: "Inovation and Development",
+                children: {
+                    central: {
+                        title: "Central Services"
+                    },
+                    faculty: {
+                        title: "Faculty"
+                    },
+                    library: {
+                        title: "Library"
+                    },
+                    national: {
+                        title: "National"
+                    },
+                    international: {
+                        title: "International"
+                    }
+                }
+            },
+            projects: {
+                title: "Projects and Grassroots",
+                children: {
+                    central: {
+                        title: "Central Services"
+                    },
+                    faculty: {
+                        title: "Faculty"
+                    },
+                    library: {
+                        title: "Library"
+                    }
+                }
+            },
+            strategy: {
+                title: "Strategy and Management",
+                children: {
+                    central: {
+                        title: "Central Services"
+                    },
+                    faculty: {
+                        title: "Faculty"
+                    },
+                    library: {
+                        title: "Library"
                     }
                 }
             }
